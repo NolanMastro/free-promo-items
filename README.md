@@ -1,5 +1,5 @@
-# valorant-account-generator
-A basic selenium based valorant account generator.
+# free-promo-items
+A basic selenium based item farmer from anypromo
 
 
 # Features

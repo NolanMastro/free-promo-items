@@ -12,7 +12,7 @@ A basic selenium based valorant account generator.
 1. Clone the repository, and install dependancies.
 
 ``
-git clone https://github.com/NolanMastro/depop-bot](https://github.com/NolanMastro/valorant-account-generator
+git clone https://github.com/NolanMastro/free-promo-items
 ``
 
 ``
@@ -23,7 +23,6 @@ cd free-promo-items
 pip install -r requirements.txt
 ``
 
-2. Configure the .env file. (see .envexample)
 3. Run the main.py file.
 
 ``
@@ -33,6 +32,7 @@ python main.py
 # Recommendations/Other Requirements
 - Have Chrome installed.
 - Make sure you have a valid catchall.
+- Make sure you edit main.py with your own information at the top.
 
 
 

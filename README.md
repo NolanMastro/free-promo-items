@@ -42,4 +42,4 @@ I am not responsible for anything you do with this code.
 
 
 
-nono#0618
+nono#0618 - DM me on discord for help!

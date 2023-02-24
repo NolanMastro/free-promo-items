@@ -23,10 +23,10 @@ cd free-promo-items
 pip install -r requirements.txt
 ``
 
-3. Run the main.py file.
+3. Run the promoitemsfree file.
 
 ``
-python main.py
+python promoitemsfree.py
 ``
 
 # Recommendations/Other Requirements
